@@ -1,2 +1,2 @@
 # Rakshitha-E
-project on landing page
+task on landing page
