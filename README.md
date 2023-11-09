@@ -1,2 +1,2 @@
-# Rakshitha-t
+# Rakshitha-E
 project on landing page
